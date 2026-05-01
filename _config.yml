@@ -1,0 +1,21 @@
+title: "Desafio Anzan & Soroban Tools"
+description: "Ferramentas e técnicas de cálculo mental, Flash Anzan e Abaco."
+baseurl: "" 
+url: "https://MauricioMendes-gif.github.io" 
+
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+markdown: kramdown
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - migration.log
+  - token.json
+  - client_secret.json
+  - venv/
+  - blogger_to_github.py
