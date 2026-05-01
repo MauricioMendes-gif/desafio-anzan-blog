@@ -1,0 +1,19 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+migration.log
+
+# Google Auth (NUNCA subir para o GitHub)
+token.json
+client_secret.json
+
+# Ruby/Jekyll
+Gemfile.lock
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# OS
+.DS_Store
+Thumbs.db
