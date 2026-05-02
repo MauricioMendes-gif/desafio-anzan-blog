@@ -3,7 +3,6 @@ description: "Ferramentas e técnicas de cálculo mental, Flash Anzan e Abaco."
 baseurl: "/desafio-anzan-blog" 
 url: "https://mauriciomendes-gif.github.io" 
 
-# Usando a versão master que sempre existe
 remote_theme: pages-themes/minima@master
 plugins:
   - jekyll-remote-theme
